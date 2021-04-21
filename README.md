@@ -17,10 +17,11 @@ Here are some tecnologies I'm familiar with:
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 ![RESTful](https://img.shields.io/badge/-RESTful-333?style=flat&logo=swagger)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
-![ES](https://img.shields.io/badge/-Elasticsearch-333?style=flat&logo=elasticsearch)
-
 
 <!--
+Badges:
+![ES](https://img.shields.io/badge/-Elasticsearch-333?style=flat&logo=elasticsearch)
+
 **edilsonborges/edilsonborges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

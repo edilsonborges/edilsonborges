@@ -3,7 +3,7 @@
 
 I'm Edilson 🇧🇷 , working as a Full Stack Developer since 2011, graduated in Computer Engineering at PUC-GO (2007) and with a MBA in IT Governance.
 
-Here are some tecnologies I'm familiar with:
+Here are some technologies I'm familiar with:
 
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=PHP)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=Node.js)

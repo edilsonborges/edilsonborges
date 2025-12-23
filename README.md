@@ -1,7 +1,7 @@
 
 ### Hi! 👋 
 
-I'm Edilson 🇧🇷 , working as a Full Stack Developer since 2011, graduated in Computer Engineering at PUC-GO (2007) and with a MBA in IT Governance.
+Senior Full Stack Developer with 13+ years of experience, specialized in solving complex challenges across back-end, front-end, mobile development, infrastructure and AI. With sharp skills in product management, my passion is turning ideas into efficient technological solutions. A natural communicator, I am always eager to learn and innovate.
 
 Here are some technologies I'm familiar with:
 
